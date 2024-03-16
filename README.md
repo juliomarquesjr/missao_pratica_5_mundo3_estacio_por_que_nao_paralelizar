@@ -1,6 +1,6 @@
  
 
-![Logo Estácio](https://raw.githubusercontent.com/juliomarquesjr/missao_pratica_3_mundo3_mapeamento_objeto_relacional_dao/4e7b515b4215102eda7f7d9b1ebe8870fdb92e4c/logo_estacio.jpg)
+![Logo Estácio](https://raw.githubusercontent.com/juliomarquesjr/missao_pratica_5_mundo3_estacio_por_que_nao_paralelizar/main/logo_estacio.jpg)
 
 
 
